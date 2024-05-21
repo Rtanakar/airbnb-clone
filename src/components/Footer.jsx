@@ -36,8 +36,6 @@ const Footer = () => {
         <p>Easter Man</p>
         <p>For the Win</p>
       </div>
-
-      <div></div>
     </div>
   );
 };
